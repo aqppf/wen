@@ -47,6 +47,9 @@ class GenerationController extends Controller
 
         // 日期
         imagettftext($image,13,-1,290,350,$white,$font,date('Y年m月d日'));
+
+        // 编号
+        imagettftext($image,13,-3,460,160,$white,$font,mt_rand(50000000,99999999));
         
         //输出图像  
         header("Content-type: image/jpeg");  
