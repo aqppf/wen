@@ -64,12 +64,12 @@ $(function(){
 <IMG width="100%" id="submit" src="/room/hpcbtn.png"> 
 </DIV></DIV></DIV>
 
-<A href="http://asasaa.com/">
+<A href="http://mp.weixin.qq.com/s?__biz=MzA4NzU5NDY0Mg==&mid=403262973&idx=1&sn=9708094b43b1df40ee7801e9b79db8db&scene=0#wechat_redirect">
 
 <DIV class="ggggg"></DIV></A>             
 </DIV></DIV></DIV>
 
-<A href="http://mp.weixin.qq.com/">
+<A href="http://mp.weixin.qq.com/s?__biz=MzA4NzU5NDY0Mg==&mid=403262973&idx=1&sn=9708094b43b1df40ee7801e9b79db8db&scene=0#wechat_redirect">
 
 <DIV class="banners"><IMG width="100%" src="/room/banner.png">
 </DIV></A> </DIV>
