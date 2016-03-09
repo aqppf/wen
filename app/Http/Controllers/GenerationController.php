@@ -39,10 +39,14 @@ class GenerationController extends Controller
         $textcolor = imagecolorallocate($image,105,102,97);  
           
         //把字符串写在图像左上角
-        $white=imagecolorallocate($image,105,102,97);
-        $font="C://WINDOWS/Fonts/simhei.ttf";
+        $white = imagecolorallocate($image,105,102,97);
+        $font  = $_SERVER['DOCUMENT_ROOT']."/simhei.ttf";
 
+        // 姓名
         imagettftext($image,13,-1,288,202,$white,$font,$get['name']);
+
+        // 日期
+        imagettftext($image,13,-1,388,202,$white,$font,date('Y年m月d日'));
         
         //输出图像  
         header("Content-type: image/jpeg");  
