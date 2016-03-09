@@ -1,0 +1,687 @@
+html {
+	-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+}
+a {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+body {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+button {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+dd {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+div {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+dl {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+dt {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+fieldset {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+form {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+h1 {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+h2 {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+h3 {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+h4 {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+h5 {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+h6 {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+input {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+legend {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+li {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+ol {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+p {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+select {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+table {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+td {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+textarea {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+th {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+ul {
+	margin: 0px; padding: 0px; font-weight: 400;
+}
+a {
+	text-decoration: none; cursor: pointer;
+}
+a {
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+button {
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+img {
+	border: 0px currentColor; border-image: none; vertical-align: middle;
+}
+ul {
+	padding-left: 0px; list-style-type: none;
+}
+ol {
+	padding-left: 0px; list-style-type: none;
+}
+li {
+	padding-left: 0px; list-style-type: none;
+}
+body {
+	font-weight: 400; position: relative; -ms-word-break: normal;
+}
+body * {
+	font-family: "Microsoft YaHei",Arial,sans-serif;
+}
+.clearfix::after {
+	height: 0px; clear: both; display: block; content: "";
+}
+.clearfix {
+	-ms-zoom: 1;
+}
+.float1 {
+	float: left;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.hide {
+	display: none;
+}
+#weixin {
+	padding: 20px 0px 0px 20px;
+}
+.weixin {
+	padding: 20px 0px 0px 20px;
+}
+.container {
+	margin: 0px 5%; padding-bottom: 19px; position: relative; max-width: 960px;
+}
+.container2 {
+	background: rgb(236, 236, 236); margin: 0px; padding-bottom: 19px; position: relative; max-width: 960px;
+}
+.content2 .joinus.container2 a {
+	padding: 0px 0px 0.5%; display: block;
+}
+.content2 .joinus.container2 img {
+	margin: 0px 0.5%; width: auto; max-width: 99%;
+}
+.header {
+	background: rgb(255, 255, 255); width: 100%; height: 70px; overflow: hidden; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.header .brand {
+	padding: 0px; width: 130px; height: 49px; line-height: 49px; float: left; display: block;
+}
+.header .brand img {
+	width: 130px;
+}
+.header .login {
+	padding: 0px 18px; top: 0px; height: 70px; right: 0px; color: rgb(251, 111, 93); line-height: 70px; text-decoration: none; margin-right: -18px; position: absolute;
+}
+.header a.login:hover {
+	color: rgb(245, 62, 41);
+}
+.header #user-info {
+	top: 20px; width: 30px; height: 30px; right: 10px; display: none; position: absolute; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; -o-background-size: cover;
+}
+#user-info {
+	display: none;
+}
+.footer {
+	margin: 0px auto; width: 100%; background-color: rgb(249, 249, 249);
+}
+.footer .container ul {
+	margin: 0px; padding: 10px 0px 0px; list-style-type: none;
+}
+.footer .container li {
+	margin: 0px auto; padding: 5px 0px; text-align: center;
+}
+.footer .container li a {
+	color: rgb(93, 93, 93); font-size: 16px; font-weight: bold; text-decoration: underline; cursor: pointer;
+}
+.footer .container li a:hover {
+	color: rgb(0, 0, 0);
+}
+.footer .container li.terms {
+	text-align: center; opacity: 0.7;
+}
+.footer .container .change-lang {
+	height: 25px; border-bottom-color: rgb(201, 201, 201); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.footer .container .change-buttons {
+	margin: 20px 0px 0px; text-align: center;
+}
+.footer .container .change-buttons .chgButton {
+	margin: 0px 20px; border-radius: 5px; width: 40px; height: 40px; text-align: center; line-height: 40px; display: inline-block;
+}
+.footer .container .change-buttons .chgButton a {
+	color: rgb(255, 255, 255);
+}
+.footer .container .change-buttons .cnTxt.chgButton {
+	background: rgb(251, 112, 93);
+}
+.footer .container .change-buttons .twTxt.chgButton {
+	background: rgb(238, 145, 104);
+}
+.footer .container .change-buttons .enTxt.chgButton {
+	background: rgb(91, 180, 236);
+}
+.footer .container .change-txt {
+	width: 100%; text-align: center; bottom: -10px; position: absolute;
+}
+.footer .container .change-txt span {
+	background: rgb(249, 249, 249); padding: 0px 10px; color: rgb(93, 93, 93);
+}
+.footer .container .qqfans {
+	margin: 0px auto; padding: 20px 0px 10px; text-align: center; color: rgb(93, 93, 93); font-size: 18px;
+}
+.footer .container .copyright {
+	margin: 0px auto; padding: 30px 0px 0px; text-align: center; color: rgb(120, 120, 120); font-weight: bold; white-space: nowrap;
+}
+.footer .container .copyright a {
+	color: rgb(120, 120, 120);
+}
+.footer .container .copyright a:hover {
+	color: rgb(0, 0, 0);
+}
+#loginDialog {
+	background: rgba(0, 0, 0, 0.4); left: 0px; top: 0px; width: 100%; height: 100%; text-align: center; display: none; position: fixed; z-index: 111111;
+}
+.loginMain {
+	top: 50%; width: 100%; text-align: center; position: fixed; z-index: 111111;
+}
+.loginDiv {
+	background: rgb(255, 252, 252); margin: -112px auto 0px; border-radius: 5px; width: 274px; height: 225px; position: relative;
+}
+.loginDiv .LG-close {
+	background: url("../images/login/nie-login-close.png") no-repeat center / 16px 16px; top: 7px; width: 20px; height: 20px; right: 8px; text-indent: -9999px; font-size: 0px; position: absolute; z-index: 111; cursor: pointer;
+}
+.loginDiv .LG-title {
+	margin: 0px auto; width: 89.8%; height: 41px; border-bottom-color: rgb(232, 231, 231); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.loginDiv .LG-title .LG-ts {
+	width: 100%; text-align: center; bottom: -10px; color: rgb(176, 176, 176); font-size: 12px; position: absolute;
+}
+.loginDiv .LG-title .LG-ts span {
+	background: rgb(255, 252, 252); padding: 0px 7px;
+}
+.loginDiv .login-txt {
+	margin: 0px auto; width: 208px; height: 48px; text-indent: -9999px; font-size: 0px; cursor: pointer;
+}
+.loginDiv .login-wb {
+	background: url("../images/login/nie-login-wb.png") no-repeat 0px 0px / 100%; margin-top: 30px;
+}
+.loginDiv .login-qq {
+	background: url("../images/login/nie-login-qq.png") no-repeat 0px 0px / 100%; margin-top: 20px;
+}
+.loginDiv .login-txt:hover {
+	opacity: 0.9;
+}
+.LG-close:hover {
+	opacity: 0.9;
+}
+#loginoutDialog {
+	background: rgba(0, 0, 0, 0.4); left: 0px; top: 0px; width: 100%; height: 100%; text-align: center; display: none; position: fixed; z-index: 111111;
+}
+.LGoutMain {
+	margin: 0px auto; left: 0px; top: 70px; text-align: center; right: 0px; position: absolute; z-index: 111111; max-width: 640px;
+}
+.LGoutDiv {
+	background: rgb(255, 252, 252); border: 1px solid rgb(250, 93, 75); border-image: none; width: 200px; height: 125px; margin-right: 17px; position: relative;
+}
+.LGArrow {
+	background: rgb(255, 255, 255); top: -9px; width: 15px; height: 15px; right: 20px; border-top-color: rgb(250, 93, 75); border-left-color: rgb(250, 93, 75); border-top-width: 1px; border-left-width: 1px; border-top-style: solid; border-left-style: solid; position: absolute; z-index: 4; transform: rotate(45deg); -moz-transform: rotate(45deg); -webkit-transform: rotate(45deg); -o-transform: rotate(45deg);
+}
+.LGmsg {
+	padding: 10px;
+}
+.LGmsg dt {
+	border-radius: 50%; width: 60px; height: 60px; overflow: hidden; float: left;
+}
+.LGmsg dt img {
+	border-radius: 50%; width: 60px;
+}
+.LGmsg dd {
+	width: 120px; text-align: left; line-height: 60px; text-indent: 10px; overflow: hidden; float: left; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.login-exit {
+	margin: 0px 5%;
+}
+.login-exit button {
+	background: rgb(251, 111, 94); padding: 4px 0px; border-radius: 5px; border: 0px currentColor; border-image: none; width: 100%; color: rgb(255, 255, 255); font-size: 14px;
+}
+.login-exit button:hover {
+	background: rgb(250, 93, 75); cursor: pointer;
+}
+#fastLogin {
+	background: url("../images/login/bg_fast_blank.png") 0px 0px; left: 0px; width: 100%; height: auto; right: 0px; bottom: 0px; overflow: hidden; position: fixed; z-index: 11111111;
+}
+#fastLogin .fast-close {
+	top: 10px; width: 22px; height: 22px; right: 10px; position: absolute;
+}
+#fastLogin .fast-close a {
+	background: url("../images/login/bg_fast_close.png") no-repeat -132px 7px; width: 22px; height: 22px; text-indent: -9999px; display: block;
+}
+#fastLogin .fast-close a:hover {
+	background-position: -110px 7px;
+}
+#fastMain {
+	margin: 0px auto; width: 640px; height: 117px; max-width: 640px;
+}
+#fastMain .fastGz {
+	width: 55%; float: left;
+}
+#fastMain .fastGz dt.codeImg {
+	background: url("../images/login/bg_qr_code.jpg") no-repeat 0px 0px / cover; margin: 15px 10px 15px 20px; width: 87px; height: 87px; float: left; display: block;
+}
+#fastMain .fastGz dd {
+	padding: 27px 0px 0px 10px; color: rgb(255, 255, 255); float: left;
+}
+#fastMain .fastGz dd p {
+	padding: 5px 0px; font-size: 16px;
+}
+#fastMain .fastLG {
+	width: 45%; float: right;
+}
+#fastMain .fastLG .fLGBtn {
+	background: url("../images/login/bg_fast_wb.png") no-repeat 0px 0px / cover; width: 110px; height: 26px; text-indent: -9999px; font-size: 0px; margin-left: 23px; float: left; display: block;
+}
+#fastMain .fastLG .fLGBtn:hover {
+	opacity: 0.8;
+}
+#fastMain .fastLG .LGQQ.fLGBtn {
+	background: url("../images/login/bg_fast_qq.png") no-repeat 0px 0px / cover;
+}
+#fastMain .fastLG p {
+	padding: 32px 0px 7px; color: rgb(255, 255, 255); font-size: 16px; margin-left: 23px;
+}
+#adHeader {
+	margin: 0px auto; padding: 0px 20px; border-top-color: rgb(217, 218, 220); border-top-width: 1px; border-top-style: solid; max-width: 640px; box-sizing: border-box !important;
+}
+#loadADs {
+	background: rgb(255, 255, 255); margin: 0px auto; left: 0px; top: 0px; height: 100%; text-align: center; right: 0px; border-right-color: rgb(217, 218, 220); border-left-color: rgb(217, 218, 220); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid; position: fixed; z-index: 111; max-width: 640px; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+#loadADs .loadad {
+	margin: 0px auto; width: 90%; overflow: hidden; clear: both;
+}
+#loadADs .loadad a {
+	width: 100%; text-align: center; padding-top: 15px; display: inline-block;
+}
+#loadADs .load-ad1 {
+	width: 100%;
+}
+#loadADs .load-ad2 {
+	width: 100%;
+}
+@media all and (min-width:960px)
+{
+.header .container {
+	margin: 0px auto;
+}
+.footer .container {
+	margin: 0px auto;
+}
+}
+@media all and (max-width:640px)
+{
+.header {
+	height: 45px; box-shadow: 0px 1px 2px #f0f0f0;
+}
+.header .brand {
+	width: 88px; height: 45px; line-height: 45px;
+}
+.header .brand img {
+	width: 88px; display: block;
+}
+.header .login {
+	height: 45px; line-height: 45px;
+}
+.header #user-info {
+	top: 7px; right: 0px;
+}
+.ft_pd {
+	box-sizing: border-box !important;
+}
+.footer {
+	padding: 0px !important;
+}
+#weixin {
+	padding: 11px 0px 0px 15px;
+}
+.weixin {
+	padding: 11px 0px 0px 15px;
+}
+#weixin img {
+	width: 60px;
+}
+.weixin img {
+	width: 60px;
+}
+.LGoutMain {
+	top: 50px;
+}
+.LGoutDiv {
+	margin-right: 5px;
+}
+#loadADs {
+	border: 0px currentColor; border-image: none;
+}
+}
+@media all and (max-width:320px)
+{
+.loginDiv {
+	margin: -102px auto 0px; width: 250px; height: 205px;
+}
+.loginDiv .login-txt {
+	width: 173px; height: 40px;
+}
+.footer {
+	padding: 0px !important;
+}
+.footer .container .copyright a {
+	font-size: 14px;
+}
+#loadADs .loadad a {
+	padding-top: 5px;
+}
+}
+#loading {
+	background: rgb(255, 255, 255); text-align: center;
+}
+#loading p {
+	padding: 5px 0px; text-align: center;
+}
+#loadingword {
+	font-size: 20px;
+}
+.result-loading {
+	animation:spin 1s linear infinite; -moz-animation: spin 1s linear infinite; -webkit-animation: spin 1s linear infinite;
+}
+#resultPage {
+	display: none;
+}
+.clear {
+	clear: both;
+}
+#shraeimg {
+	top: 0px; width: 100%; position: fixed; max-width: 640px;
+}
+#share {
+	left: 0px; top: 0px; width: 100%; height: 100%; right: 0px; font-size: 16px; margin-right: auto; margin-left: auto; display: none; position: absolute; z-index: 11115; min-height: 1136px; min-width: 320px; max-width: 640px; opacity: 0; background-color: rgba(0, 0, 0, 0.7);
+}
+.share-close {
+	top: 3%; width: 5%; height: 5%; right: 3%; position: absolute; z-index: 111; cursor: pointer;
+}
+.share-ts {
+	width: 100%; text-align: center; bottom: -10px; color: rgb(85, 85, 85); font-size: 18px; position: absolute;
+}
+.share-ts span {
+	background: 0px 0px rgb(255, 252, 252); padding: 0px 35px;
+}
+.share-title {
+	margin: 15px auto; padding: 8% 0px 0px; width: 90%; border-bottom-color: rgb(232, 231, 231); border-bottom-width: 2px; border-bottom-style: solid; position: relative;
+}
+.sharediv {
+	background: 0px 0px rgb(255, 252, 252); margin: 0px 7.5%; border-radius: 5px; width: 85%; bottom: 7.5%; position: fixed; min-width: 272px; max-width: 544px;
+}
+.shareicon {
+	margin: 2% 2% 2% 9%; width: 20%; text-align: center; color: rgb(187, 187, 187); overflow: hidden; float: left; display: block; white-space: nowrap; cursor: pointer; -ms-word-break: keep-all; -ms-text-overflow: ellipsis; box-sizing: border-box !important;
+}
+.sharetxts {
+	margin-top: 10%;
+}
+.shareicon img {
+	width: 100%;
+}
+@media screen and (min-width:640px)
+{
+.sharediv {
+	bottom: 48px; margin-left: 48px;
+}
+}
+@media all and (max-width:450px)
+{
+.shareicon {
+	font-size: 12px;
+}
+}
+#tiping {
+	margin: 0px auto; top: 0px; width: 100%; display: none; position: fixed; z-index: 20;
+}
+#tiptxt {
+	margin: 0px auto; padding: 20px 0px; text-align: center; color: rgb(244, 244, 244); font-weight: bold; min-width: 320px; max-width: 640px; background-color: rgba(255, 138, 116, 0.9);
+}
+#actfix {
+	background: url("../images/login/bg_fast_blank.png") 0px 0px rgba(0, 0, 0, 0); width: 100%; bottom: 0px; position: fixed; z-index: 11111112;
+}
+.actword {
+	margin: 0px auto; padding: 10px 0px; width: 100%; text-align: center; color: rgb(251, 111, 93); overflow: hidden; font-size: 20px; max-width: 640px;
+}
+.played-game {
+	overflow: hidden; display: block;
+}
+.played-index {
+	overflow: hidden; display: block;
+}
+.played-reco {
+	overflow: hidden; display: block;
+}
+.play-index-login {
+	overflow: hidden; display: block;
+}
+.play-reco-login {
+	overflow: hidden; display: block;
+}
+.played-game {
+	left: 0px; width: 100%; height: 12%; bottom: 13%; position: absolute;
+}
+.play-index-login {
+	left: 0px; width: 100%; height: 12%; bottom: 13%; position: absolute;
+}
+.play-reco-login {
+	left: 0px; width: 100%; height: 12%; bottom: 5%; position: absolute;
+}
+.played-game {
+	white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.played-reco {
+	white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.played-index {
+	margin: 10px auto 0px; width: 90%; position: relative; min-height: 25px;
+}
+.played-reco {
+	left: 0px; width: 100%; bottom: 8%; position: absolute;
+}
+.played-game span {
+	color: rgb(102, 102, 102); padding-left: 2%; font-size: 14px;
+}
+.played-index span {
+	color: rgb(102, 102, 102); padding-left: 2%; font-size: 14px;
+}
+.played-reco span {
+	color: rgb(102, 102, 102); padding-left: 2%; font-size: 14px;
+}
+.played-index span b {
+	color: rgb(251, 111, 93); font-weight: normal;
+}
+.played-reco span b {
+	color: rgb(251, 111, 93); font-weight: normal;
+}
+.played-game span b {
+	color: rgb(251, 111, 93); font-weight: normal;
+}
+.played-game img {
+	border-radius: 50%; vertical-align: bottom;
+}
+.played-index img {
+	border-radius: 50%; vertical-align: bottom;
+}
+.played-reco img {
+	border-radius: 50%; vertical-align: bottom;
+}
+.played-game img {
+	width: 12.38%; margin-left: 12px;
+}
+.played-index img {
+	width: 6.4%; margin-left: 10px;
+}
+.played-reco img {
+	width: 11.85%; margin-left: 10px;
+}
+.play-index-login img {
+	width: 53.08%; margin-left: 10px;
+}
+.play-reco-login img {
+	width: 51.36%; margin-left: 10px;
+}
+.likes {
+	margin: 30px 0.5% 0px; text-align: center; color: rgb(74, 74, 74); font-size: 16px; display: block; position: relative;
+}
+.likes-title {
+	width: 100%; height: 40px; color: rgb(19, 22, 21); line-height: 40px; font-weight: 600; background-color: rgb(234, 234, 234);
+}
+.likes-title i {
+	border-width: 10px; border-style: solid; border-color: rgb(234, 234, 234) transparent transparent; border-image: none; left: 48%; top: 40px; width: 0px; height: 0px; position: absolute; z-index: 1000;
+}
+.likes-data {
+	margin: 30px 0px 10px;
+}
+.likes-data ul li {
+	padding: 5px 0px; display: none;
+}
+.likes-data ul li a {
+	color: rgb(110, 151, 255);
+}
+.likes-name {
+	font-weight: 600;
+}
+#likes-arrow {
+	background: url("../images/more.png") no-repeat 0px 0px / cover; margin: 20px auto; width: 22.5px; height: 12px; display: block;
+}
+.like-link {
+	width: 50px; height: 25px; right: 0px; bottom: 0px; position: absolute; cursor: pointer;
+}
+.liked-link {
+	width: 50px; height: 25px; right: 0px; bottom: 0px; position: absolute; cursor: pointer;
+}
+.like-link {
+	background: url("../images/like-icon.png") no-repeat 0px 0px / cover;
+}
+.liked-link {
+	background: url("../images/like-icon-on.png") no-repeat 0px 0px / cover;
+}
+.title#recommend {
+	margin: 0px 0.5%; height: 40px; text-align: center; color: rgb(19, 22, 21); line-height: 40px; background-color: rgb(234, 234, 234);
+}
+.quiz-list .related-item {
+	background: none; margin: 5% 0.5% 0px; padding: 0px 0px 45%; border: 1px solid rgb(219, 219, 219); border-image: none; width: 49%; height: 0px; overflow: hidden; float: left; display: block; position: relative; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+.quiz-list .related-item .img {
+	width: 100%; height: 60%; overflow: hidden; position: absolute;
+}
+.quiz-list .related-item .img img {
+	left: 0%; width: 100%; position: absolute;
+}
+.quiz-list .related-item .img .rank-badge {
+	top: 0%; width: 24px; height: 24px; text-align: center; color: rgb(255, 255, 255); line-height: 24px; font-size: 18px; font-weight: bold; position: absolute; background-color: rgb(255, 138, 116);
+}
+.quiz-list .related-item .desc {
+	padding: 10px 10px 0px; top: 60%; color: rgb(0, 0, 0); letter-spacing: -1px; overflow: hidden; font-size: 14px; font-weight: normal; position: absolute; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+}
+@media all and (max-width:640px)
+{
+.played-game {
+	bottom: 15%;
+}
+.played-game img {
+	width: 14.76%; margin-left: 8px;
+}
+.played-game span {
+	font-size: 10px;
+}
+.played-index {
+	margin: 5px auto 0px; min-height: 18px;
+}
+.played-index img {
+	width: 8.38%; margin-left: 5px;
+}
+.played-index span {
+	line-height: 18px; font-size: 10px;
+}
+.played-reco img {
+	width: 11.9%; margin-left: 5px; float: left;
+}
+.played-reco span {
+	font-size: 10px;
+}
+.play-index-login {
+	bottom: 15%;
+}
+.play-index-login img {
+	margin-left: 8px;
+}
+.play-reco-login {
+	bottom: 6%;
+}
+.play-reco-login img {
+	width: 60%; margin-left: 5px;
+}
+.likes {
+	font-size: 14px; margin-top: 20px;
+}
+.like-link {
+	width: 36px; height: 18px;
+}
+.liked-link {
+	width: 36px; height: 18px;
+}
+.title#recommend {
+	font-size: 14px;
+}
+.quiz-list .related-item {
+	padding: 0px 0px 55%;
+}
+.quiz-list .related-item .img {
+	height: 51%;
+}
+.quiz-list .related-item .desc {
+	padding: 5px 5px 0px; top: 51%;
+}
+}
